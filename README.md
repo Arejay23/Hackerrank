@@ -1,10 +1,11 @@
 # Hackerrank
 Find the solved codes of HackerRank here by navigation in the particular Section.
+Made as part of thirty days of code.
 
 Languages Present:
-- Java
-- C++
-- C
+- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+- <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+- <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 # Contributing Guidelines
 To contribute your code or the codes of sections not present here:
@@ -14,3 +15,9 @@ To contribute your code or the codes of sections not present here:
 - Mention in the PR what issue it solves or how does your PR contribute
 
 > You can also add code in any language other than the languages present.
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Arejay23/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Arejay23/Hackerrank.svg)](https://github.com/Arejay23/Hackerrank/contributors/)
+[![GitHub Issues](https://img.shields.io/github/issues/Arejay23/Hackerrank.svg)](https://github.com/Arejay23/Hackerrank/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/Arejay23/Hackerrank)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
