@@ -5,12 +5,12 @@ int main() {
 	cin>>t;
 	while(t--) {
 		cin>>n>>k;
-		
-		if((k-1)|k <=n )
+
+		if(((k-1)|k) <=n )
 			cout<<k-1;
 		else
 			cout<<k-2;
-			
+
 		cout<<"\n";
 	}
 }
